@@ -20,7 +20,7 @@ img {
 
 .head {
   padding: 10px 200px;
-  background-image: url("/img/people-bg.png");
+  background-image: url("img/people-bg.png");
   background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
@@ -124,7 +124,7 @@ img {
 }
 
 .middle {
-  background-image: url("/img/story-bg.png");
+  background-image: url("img/story-bg.png");
   background-size: cover;
   background-size: cover;
   background-repeat: no-repeat;
